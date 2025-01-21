@@ -124,6 +124,140 @@ With PanoCut you can perform a photo split for Instagram in less than a minute. 
 <img src="https://play-lh.googleusercontent.com/5SPIvpCZ-zRRQn45MdhzWnapZrzqEOPayppcU1Uk1ayV-iyxu0jCXqnCfMK6pR5s8g=w2560-h1440-rw" width="200"  title="Panorama Crop - PanoCut">
 </p>
 
+# No Crop for IG - CroPic
+
+The Ultimate Free Photo Editor, Collage Maker, No Crop Resizer, and More!
+
+Transform your photos into stunning works of art with this powerful, all-in-one photo editing app! Whether you're looking to enhance your social media presence, create the perfect Instagram post, or design unique photo collages, this app has all the tools you need. With a variety of advanced editing options, creative filters, and exclusive features, you can bring out the best in every photo.
+
+### Technolgies : MVVM, Room, Android SDK , Kotlin, Java, Xml, Material Design
+
+<a href='https://play.google.com/store/apps/details?id=com.no.crop.for.instagram.photo.editor&hl=en_SG'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+<p align="center">
+<img src="https://play-lh.googleusercontent.com/VILj2VyXrgGb7l-aw6MGPPKlJSCAtr6knx4IpKEWiWvUA8u42IzLGkRx6-zfuVqZ9vo=w2560-h1440-rw" width="200"  title="No Crop for IG - CroPic">
+<img src="https://play-lh.googleusercontent.com/m4uJKt4aw16hDzyy4bsvJL23qihSI437czEHsbOIPqEeCbHSc3Kr7Q7I3rJr3YtJCEI=w2560-h1440-rw" width="200"  title="No Crop for IG - CroPic">
+<img src="https://play-lh.googleusercontent.com/_ri9K67cxuSXpqJXSDO3SuRejNcCgLQ63-NRkjDzekqqdjfw9ml4mtHqZdUmKLHYEA=w2560-h1440-rw" width="200"  title="No Crop for IG - CroPic">
+<img src="https://play-lh.googleusercontent.com/KhqPq8y1e2HvT3q-9oF8VeBi-pz8NwKgJG5BQDFPcyODjFX5cLocXB5gAMNN1iNymg=w2560-h1440-rw" width="200"  title="No Crop for IG - CroPic">
+<img src="https://play-lh.googleusercontent.com/PjwEDal4Jqpz7QE5mh4RG_GqKO_W5Hj2XVu5bgSkjAwaZyc1z__TWtoKTNZakX-whGo=w2560-h1440-rw" width="200"  title="No Crop for IG - CroPic">
+<img src="https://play-lh.googleusercontent.com/hqUxISiXVpExbMxKRmfrARYin8YktfnIMp5CQH4jph1nRvm0RC0EelD6XBYQdL9Oo-vz=w2560-h1440-rw" width="200"  title="No Crop for IG - CroPic">
+<img src="https://play-lh.googleusercontent.com/515wfbi-__B54iiGGw4_bPBFSBs6kMH869rDC22kuRn1GJeiRoIdyG3h9wk5Y3xjfgI=w2560-h1440-rw" width="200"  title="No Crop for IG - CroPic">
+</p>
+
+# Post Maker for Social Media
+
+PostPlus simplifies your social media game! Schedule regular posts reminders and those specifically for Instagram, all in one place. PostPlus empowers business owners and digital marketers to plan, efficiently manage, and schedule their social media content.
+
+PostPlus Key features:
+5000+ templates design
+250+ categorized fonts...
+
+### Technolgies : FFMPEG, MVVM, Room, Android SDK , Kotlin, Java, Xml, Material Design
+
+<a href='https://play.google.com/store/apps/details?id=com.post.maker.for.social.media.photo.editor.postplus&hl=en_SG'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+<p align="center">
+<img src="https://play-lh.googleusercontent.com/cLma9YnSKBD-83tHp1JrDRBk9cu2rLb1qcB7HVkQipYphd_j3Wnl-wUqzbpXZJzbBg=w2560-h1440-rw" width="200"  title="Post Maker for Social Media">
+<img src="https://play-lh.googleusercontent.com/-d03eUZcGTP2P1pnm9yWMbhHO8MVD_wq5Er1vpvaWwI58G-hcCFfcGvk7el1Wi86wUU=w2560-h1440-rw" width="200"  title="Post Maker for Social Media">
+<img src="https://play-lh.googleusercontent.com/RYNf9DYtwPmihMHgW-vZFKzXuYbhwaTJZ95-mUGf8vncdpnYONFPr0p5RwXcepKKYg=w2560-h1440-rw" width="200"  title="Post Maker for Social Media">
+<img src="https://play-lh.googleusercontent.com/rxZEwwqZsobg-gvM4uXePpE2wGkA8-uzNt2HsSwAIezeDxdXyDlRx2VwgAlHdfJWQiqu=w2560-h1440-rw" width="200"  title="Post Maker for Social Media">
+<img src="https://play-lh.googleusercontent.com/6kSTH7l1AU4PmAXawRueUcTEBp1wiTYsPPp7iTyuRmrsSQvLjsWlN6ent7K7APyKFwg=w2560-h1440-rw" width="200"  title="Post Maker for Social Media">
+<img src="https://play-lh.googleusercontent.com/pDkjmCJxZzBurNTpxQNlEa6dG3qEDNkNeqSFAiPiPI_4YaxU8SWL-vo5lDmO81Usfq66=w2560-h1440-rw" width="200"  title="Post Maker for Social Media">
+<img src="https://play-lh.googleusercontent.com/-ohhZq0AS6_OjK_CxrXa6qRN29aOqq0mOHoKtEuf3FXkMQqzntN-MHdSVfxOwKdg2A=w2560-h1440-rw" width="200"  title="Post Maker for Social Media">
+</p>
+
+# Fact of the day - Factofy
+
+Factory facts of Ultimate: Did You Know? Our app, Fun Facts & Trivia, offers a wealth of information across numerous categories. Each screen presents a new fact, providing endless opportunities to learn. Discover Fascinating Fun Facts & Trivia Delve into arts, entertainment, and more with our vast collection of trivia. In today's world, where information is just a click away, knowledge truly is power. Our curiosity drives us to resources like encyclopedias and others. 🧠 Get Your Daily Dose of Fun Facts! 📚 Factofy facts is a revealing historical answers and scientific explanations that illuminate our past and the natural world. 📓 Daily Amazing Facts! 👀 Learning transcends the classroom, becoming a lifelong journey. Each day, new facts remind us that education is everywhere. 🧠 Cool Facts! 📖 "Knowledge is power" calls us to intellectual engagement. Apps like ours, Wikipedia, and DeepStash invite us to join this ongoing journey of learning. 🤓 Did You Know? 🤔 Platforms like Wikipedia and DeepStash make knowledge more accessible, providing daily facts that reinforce the value of learning. 📗 Daily Random Facts. 📕 By exploring science, history, and other subjects, we become more knowledgeable. Each fact is a step in our collective pursuit of knowledge. 🧐 Encyclopedia. 🎓 Digital encyclopedias offer endless facts. Despite their extensive information, these resources can sometimes be overwhelming. 🤓 Feed Your Curiosity with Daily Random Facts! 💡 DeepStash curates knowledge into digestible insights, fueling curiosity and empowering minds. ✅ Integrate Learning into Your Daily Routine Daily facts apps are essential for gaining general knowledge. Each fun fact and amazing fact enriches our lives and broadens our horizons. ❗❓ Discover Did You Know Facts Daily! ❗❓ From science to history, our apps deliver daily facts, making learning a delightful part of each day. 💡 Daily Facts. 💡 Daily facts apps go beyond mere entertainment, empowering us with knowledge in captivating ways, emphasizing the profound impact of knowledge itself. 🧪 Ultimate Facts Of Factofy. 🧪 Platforms like DeepStash and Wikipedia revolutionize information access. DeepStash makes exploring topics easy, while Wikipedia serves as a vast encyclopedia. 🔬 Knowledge Facts! 🔬 Together, these platforms span broad general knowledge and specialized insights, making the pursuit of knowledge an integral part of life. 👽 Unlock Daily Amazing Facts & Knowledge! 📜 Our app integrates learning into daily life, sparking interest, inspiring hobbies, and influencing career paths. Each fact enriches our understanding and conversations.
+
+### Technolgies : JetPack Compose, MVVM, Room, Android SDK , Kotlin, Java, Xml, Material Design
+
+<a href='https://play.google.com/store/apps/details?id=com.daily.random.facts.interesting&hl=en_SG'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+<p align="center">
+<img src="https://play-lh.googleusercontent.com/rD-a3JAUIvh_3l17Soy6K2VEBvczEpZirSeGCYaUm_xytLjT3MnnhgBihYDAMy58vng9=w2560-h1440-rw" width="180"  title="Fact of the day - Factofy">
+<img src="https://play-lh.googleusercontent.com/7Spl-mca3KAE3Um_3eQZgW7zEifrZ38h5l01uCQgx1NNbU4zdnohHL1i7_pRK73zLd7k=w2560-h1440-rw" width="180"  title="Fact of the day - Factofy">
+<img src="https://play-lh.googleusercontent.com/0nocYdkle6tcIe8CEsOS_vBnz4XamhplIoXS8JfPlgM3tcP72PzsSpq9giJjP3To4A=w2560-h1440-rw" width="180"  title="Fact of the day - Factofy">
+<img src="https://play-lh.googleusercontent.com/98YqE--Dy2a5gTBu6STLWqvOW2J0T0q1pGWUPfGJGDrl4EVZRr054XNa2VAA0Q10sQU=w2560-h1440-rw" width="180"  title="Fact of the day - Factofy">
+<img src="https://play-lh.googleusercontent.com/fmrjvuL8C9611U2yODXqshiCVEsO7-Tg7pbsfEg9pJRPB7ebsQzYZrMRt_vMt_cUFIA=w2560-h1440-rw" width="180"  title="Fact of the day - Factofy">
+</p>
+
+
+# Quotes Creator App - Quotify
+
+Welcome to the Quotify!
+Quotify is a great motivational and inspirational quote maker. Everyone has ups and downs in their life. Professional & expert people always need support to get up and boost their life journey. Our motivational quotes boost your daily life and mindset for your targeted goal.
+
+### Technolgies : MVVM, Room, Android SDK , Kotlin, Java, Xml, Material Design
+
+<a href='https://play.google.com/store/apps/details?id=com.quotes.creator.maker.quotify.app&hl=en_SG'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+<p align="center">
+<img src="https://play-lh.googleusercontent.com/pXhUEDj-BqGYcE8envL5kEATnfPDBlFuRoEkUVDVef_WX6TIjM-XAUn_hiADy5qTAAI=w2560-h1440-rw" width="180"  title="Fact of the day - Factofy">
+<img src="https://play-lh.googleusercontent.com/6jUtEQFZ0Tk-WDyoMSlc8ku70HpzCtiy0g9ZMzlniICIhHtTYKLgqrHtEjeAS5PuBQ=w2560-h1440-rw" width="180"  title="Fact of the day - Factofy">
+<img src="https://play-lh.googleusercontent.com/f3leU82U5-hSWygItrBYNVfhzzYJQS9LFr9wkcQHCftCEleCV8OIlgHa8JMm8ixc6y8=w2560-h1440-rw" width="180"  title="Fact of the day - Factofy">
+<img src="https://play-lh.googleusercontent.com/X5JNNkojRC2j2VV5OfQ3zMw1zHM-2DYmGuwfLiC6uCeh0a_U1gKkN0SltO5JDxMZwg=w2560-h1440-rw" width="180"  title="Fact of the day - Factofy">
+<img src="https://play-lh.googleusercontent.com/SPpW2tC_G__vmlbtrXhMJ4SF-Y8ekwCdsvDNFUfDgX8jE_GuhCoo1AboyCeZOwkaKhY=w2560-h1440-rw" width="180"  title="Fact of the day - Factofy">
+</p>
+
+
+# Aio - Design & Photo Editor
+
+Unlock your creative potential with Aio, the ultimate Photo Editor and Poster-Making App of 2024! Whether you're a photography enthusiast or a design pro, Aio equips you with a comprehensive suite of tools and features to transform your photos and designs into stunning works of art.
+
+🎨 Poster Making App:
+Create eye-catching posters on the go with Aio. Our intuitive and user-friendly interface makes it accessible for everyone, from party invitations and business flyers to inspirational quote posters.
+
+Key Features:
+✨ Versatile photo editing tools for every need
+✨ 2024's latest photo enhancement features
+✨ User-friendly interface suitable for all skill levels
+✨ Professional-quality poster design capabilities
+✨ Customizable templates, fonts, and graphics
+✨ Easy sharing on social media
+✨ High-resolution save and export options
+
+### Technolgies : MVVM, Room, Android SDK , Kotlin, Java, Xml, Material Design
+
+<a href='https://play.google.com/store/apps/details?id=com.aio.editor.design.template.for.social.media&hl=en_SG'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+<p align="center">
+<img src="https://play-lh.googleusercontent.com/fNCbD5-ugh6adScea9L_zPqAZIHLD9_an4OAisZns1iLsnAE3WHTQS3o_D_M0F3JQrBS=w2560-h1440-rw" width="180"  title="Fact of the day - Factofy">
+<img src="https://play-lh.googleusercontent.com/Xsdw0DiFaGU6TP8MuXWCgOiO7lmfu4rbs8gOeHi-gDVfK8fiI93AjB_4xPfJk3Zng1Q=w2560-h1440-rw" width="180"  title="Fact of the day - Factofy">
+<img src="https://play-lh.googleusercontent.com/ribewNuGyLTTyHJO3c3jq0UABcPPCMfxu95giFkLryDIaTrqLEXgPQHVJ8rmfudv9pOV=w2560-h1440-rw" width="180"  title="Fact of the day - Factofy">
+<img src="https://play-lh.googleusercontent.com/S2-Tgx4zWzmx3ocF4_zJnsUh8JvTazpnjLiiUgeNhSVhIz8xdXlDyNSWoXXC6dTZT1pw=w2560-h1440-rw" width="180"  title="Fact of the day - Factofy">
+<img src="https://play-lh.googleusercontent.com/xDlkN8j9sK1w3_FQO4A-_PaB3ilAtm-ldndTFWAMNIPTUzYPYYqSjZtJ40krkhIQWwg=w2560-h1440-rw" width="180"  title="Fact of the day - Factofy">
+</p>
+
+
+# Aio - Design & Photo Editor
+
+Unlock your creative potential with Aio, the ultimate Photo Editor and Poster-Making App of 2024! Whether you're a photography enthusiast or a design pro, Aio equips you with a comprehensive suite of tools and features to transform your photos and designs into stunning works of art.
+
+🎨 Poster Making App:
+Create eye-catching posters on the go with Aio. Our intuitive and user-friendly interface makes it accessible for everyone, from party invitations and business flyers to inspirational quote posters.
+
+Key Features:
+✨ Versatile photo editing tools for every need
+✨ 2024's latest photo enhancement features
+✨ User-friendly interface suitable for all skill levels
+✨ Professional-quality poster design capabilities
+✨ Customizable templates, fonts, and graphics
+✨ Easy sharing on social media
+✨ High-resolution save and export options
+
+### Technolgies : MVVM, Room, Android SDK , Kotlin, Java, Xml, Material Design
+
+<a href='https://play.google.com/store/apps/details?id=com.aio.editor.design.template.for.social.media&hl=en_SG'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+<p align="center">
+<img src="https://play-lh.googleusercontent.com/fNCbD5-ugh6adScea9L_zPqAZIHLD9_an4OAisZns1iLsnAE3WHTQS3o_D_M0F3JQrBS=w2560-h1440-rw" width="180"  title="Fact of the day - Factofy">
+<img src="https://play-lh.googleusercontent.com/Xsdw0DiFaGU6TP8MuXWCgOiO7lmfu4rbs8gOeHi-gDVfK8fiI93AjB_4xPfJk3Zng1Q=w2560-h1440-rw" width="180"  title="Fact of the day - Factofy">
+<img src="https://play-lh.googleusercontent.com/ribewNuGyLTTyHJO3c3jq0UABcPPCMfxu95giFkLryDIaTrqLEXgPQHVJ8rmfudv9pOV=w2560-h1440-rw" width="180"  title="Fact of the day - Factofy">
+<img src="https://play-lh.googleusercontent.com/S2-Tgx4zWzmx3ocF4_zJnsUh8JvTazpnjLiiUgeNhSVhIz8xdXlDyNSWoXXC6dTZT1pw=w2560-h1440-rw" width="180"  title="Fact of the day - Factofy">
+<img src="https://play-lh.googleusercontent.com/xDlkN8j9sK1w3_FQO4A-_PaB3ilAtm-ldndTFWAMNIPTUzYPYYqSjZtJ40krkhIQWwg=w2560-h1440-rw" width="180"  title="Fact of the day - Factofy">
+</p>
+
 
 
 ## Thanks for stopping by!

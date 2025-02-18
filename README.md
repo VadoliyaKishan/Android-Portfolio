@@ -12,8 +12,37 @@ So far, I have worked on almost 8+ apps. Most of these apps were developed while
 
 <a href="mailto:er.kishanvadoliya.aios@gmail.com"><img src="https://github.com/VadoliyaKishan/Android-Portfolio/blob/main/email.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ankit-kumar-02a32a14b/" target="_blank"><img src="https://github.com/VadoliyaKishan/Android-Portfolio/blob/main/linkedin.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/ak_sparrow007/" target="_blank"><img src="https://github.com/VadoliyaKishan/Android-Portfolio/blob/main/instagram.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-# Easy Control Center
-Curretnly Working on the project for the android project. start working on some new feature
+# Control Center
+
+Control Centre - iOS Style Quick Access Tool for Android
+
+Take full control of your device with Control Centre, designed to replicate the sleek and intuitive iOS-style control centre experience on your Android device. Manage essential settings, apps, and tools with a single swipe—just like on iOS!
+
+✨ Key Features
+
+✅ iOS-Style Quick Toggles
+
+✅ Brightness & Volume Control
+
+✅ Screen Recording & Screenshots
+
+✅ Music Controls
+
+✅ App Shortcuts
+
+✅ Personalization Options
+
+### Technolgies : MVVM, Room, Android SDK , Kotlin, Java, Xml, Material Design
+
+<a href='https://play.google.com/store/apps/details?id=os.control.center.status.navigation&hl=en_SG'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+<p align="center">
+<img src="https://play-lh.googleusercontent.com/8auoXFa9fewHtkfOkTlfePFJXbRXz-RM-r5VzIpbz_NGbdey81pdETi6-nWbDstUyRs=w2560-h1440-rw" width="180"  title="Control Center">
+<img src="https://play-lh.googleusercontent.com/eQxBjac9k5gacCBa53znj5IJKpS0FolItm01_UJ6gZQczy7twg75XkQTpphw_3SFLQ=w2560-h1440-rw" width="180"  title="Control Center">
+<img src="https://play-lh.googleusercontent.com/7VQ8XgBcXTD_lvkJXcuG1ECVg9wLgQY3hGvlnw_J39X9CST9AvwKzHLyueOlr5xHOA=w2560-h1440-rw" width="180"  title="Control Center">
+<img src="https://play-lh.googleusercontent.com/t1OqQio3JMpXLdJ-sihcdRgfVHCfMTbjv_U4Ue8ghjOtP0EYdrhfhxMXT6OlhGBLaP8=w2560-h1440-rw" width="180"  title="Control Center">
+<img src="https://play-lh.googleusercontent.com/fiHBR_UnNH1NY5nfHxu_YkA3OrJQWw8ZDHXVgvHRKXZtTLiQ8M1gOWSsJivH4R-oE8U=w2560-h1440-rw" width="180"  title="Control Center">
+</p>
 
 
 # OS 18 Launcher: Phone 16 Theme
@@ -37,63 +66,33 @@ Transform your video editing experience with Video Compressor, an all-in-one app
 ✨ Key Features
 
 🎥 Video Converter
-Convert videos to a wide range of formats, including MP4, 3GP, FLV, MTS, MKV, MOV, WMV, and more.
-• Batch convert multiple videos simultaneously.
-• Simple, intuitive process: select videos, choose your desired format, and let the app do the rest.
 
 ✂️ Video Crop
-Easily resize videos for platforms like Instagram, TikTok, and YouTube.
-• Aspect ratios include 1:1, 16:9, 9:16, and more.
-• Customize cropping while maintaining high-definition quality.
 
 🐢⚡ Speed Adjustment (Slow & Fast Motion)
-Add dynamic speed effects to your videos:
-• Slow down or speed up videos from -10x to 20x.
-• Effortlessly create captivating slow-motion or fast-motion clips.
 
 ✂️ Video Trim & Cut
-• Remove unwanted sections or extract specific clips.
-• Create perfectly timed content with just a few taps.
 
 🔄 Flip & Rotate
-• Flip videos horizontally or vertically for mirror effects.
-• Rotate videos clockwise or counterclockwise to fix orientation.
 
 🔁 Video Loop
-• Create seamless looping videos for captivating playback.
-• Smoothly blend the end and beginning of video clips.
 
 🔊 Adjust Audio Volume
-• Increase or decrease the volume with ease.
-• Boost low audio or tone down excessive sound—perfect for precise audio control.
 
 ⏪ Video Reverse
-• Play videos in reverse for a mesmerizing, creative twist.
 
 🎥✨ Video Blur & Background Blur
-• Blur specific areas or enhance storytelling with background blurring.
 
 🎞️ Video Merge
-• Combine multiple videos into one cohesive masterpiece.
-• Perfect for montages, highlight reels, or long-form content.
 
 🎬 Fade Effects
-• Add professional fade-in or fade-out transitions to your videos.
 
 🔪 Video Split
-• Divide videos into smaller segments for detailed editing or to extract highlights.
 
 🎉 Video to GIF
-• Convert videos into shareable, fun GIFs.
-• Customize duration and quality to fit your needs.
 
 🔄 GIF to Video
-• Transform GIFs into videos in various formats, ready for editing or sharing.
 
-Unleash Your Creativity!
-With a powerful suite of tools, Video Compressor lets you effortlessly create, edit, and enhance video content. Whether you're a casual creator or a professional, this app has everything you need to make stunning, high-quality videos.
-
-📲 Video Compressor is free to download—download now and start creating!
 
 ### Technolgies : MVVM, FFMPEG, Android SDK , Kotlin, Java, Xml, Material Design
 
@@ -256,6 +255,52 @@ Key Features:
 <img src="https://play-lh.googleusercontent.com/ribewNuGyLTTyHJO3c3jq0UABcPPCMfxu95giFkLryDIaTrqLEXgPQHVJ8rmfudv9pOV=w2560-h1440-rw" width="180"  title="Fact of the day - Factofy">
 <img src="https://play-lh.googleusercontent.com/S2-Tgx4zWzmx3ocF4_zJnsUh8JvTazpnjLiiUgeNhSVhIz8xdXlDyNSWoXXC6dTZT1pw=w2560-h1440-rw" width="180"  title="Fact of the day - Factofy">
 <img src="https://play-lh.googleusercontent.com/xDlkN8j9sK1w3_FQO4A-_PaB3ilAtm-ldndTFWAMNIPTUzYPYYqSjZtJ40krkhIQWwg=w2560-h1440-rw" width="180"  title="Fact of the day - Factofy">
+</p>
+
+
+
+# Kutchuday Gujarati News
+
+"Kutchuday" app is an Indian news app that provides comprehensive coverage of local news, video news, e-papers, and various other content in Gujarati language. Here are the key features and functionalities mentioned in the description:
+
+✨ Key Features
+
+City News
+
+Video News
+
+E-Paper
+
+DVB Originals
+
+Politics
+
+Accidents and Crime
+
+Business
+
+Sports
+
+Bollywood
+
+Real-time fast notifications
+
+No Fake News
+
+Overall, the app aims to be a one-stop solution for all news from cities and towns of Gujarat for users. It emphasizes on data safety and claims to provide accurate and honest news to users.
+
+
+### Technolgies : Flutter, Material Design
+
+<a href='https://play.google.com/store/apps/details?id=com.news.kachchhiuday&hl=en'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+<p align="center">
+<img src="https://play-lh.googleusercontent.com/JnXWq6LKYH1ADyIkQG4M1ZxgNUBTFC7kQ7-AZ5ZYPWnX8CCFc34Q7HN1mjPQUPDFByI=w2560-h1440-rw" width="160"  title="Kutchuday Gujarati News">
+<img src="https://play-lh.googleusercontent.com/Z4dQVdyO960RBHJPzcyFMDp9yNmpY85ahj24UsYOIgU1hn3ve6q8QPfJMme-OL2g04P3=w2560-h1440-rw" width="160"  title="Kutchuday Gujarati News">
+<img src="https://play-lh.googleusercontent.com/VQHnvtgy2mOr_xpAfSdUhhfUFf7VSuiWICOazhy4M-5H9vcUiU2YeXQ9LXAnyGcyRA=w2560-h1440-rw" width="160"  title="Kutchuday Gujarati News">
+<img src="https://play-lh.googleusercontent.com/3aH0zvop4P7I20OOQvL6tnB5K_s4Dihs8vqRQ4ojx1d55arYfT0XXj5QeQdmBxAnJV0m=w2560-h1440-rw" width="160"  title="Kutchuday Gujarati News">
+<img src="https://play-lh.googleusercontent.com/aESCHKpc_9LRjyllYTtYRMQGmyw1vw6clN2fIbrpp7Hjmt3MAqiSIDctkz0RaFZ-btoY=w2560-h1440-rw" width="160"  title="Kutchuday Gujarati News">
+<img src="https://play-lh.googleusercontent.com/6-GDxIk5nRyU53PPg-pTwNV_8U9OVMMR9m5VRyAqL74v6Mh654DiE4tsiH0IkCTSGBQ=w2560-h1440-rw" width="160"  title="Kutchuday Gujarati News">
 </p>
 
 

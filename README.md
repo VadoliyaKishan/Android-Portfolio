@@ -169,7 +169,7 @@ PostPlus Key features:
 
 Factory facts of Ultimate: Did You Know? Our app, Fun Facts & Trivia, offers a wealth of information across numerous categories. Each screen presents a new fact, providing endless opportunities to learn. Discover Fascinating Fun Facts & Trivia Delve into arts, entertainment, and more with our vast collection of trivia. In today's world, where information is just a click away, knowledge truly is power. Our curiosity drives us to resources like encyclopedias and others. 🧠 Get Your Daily Dose of Fun Facts! 📚 Factofy facts is a revealing historical answers and scientific explanations that illuminate our past and the natural world. 📓 Daily Amazing Facts! 👀 Learning transcends the classroom, becoming a lifelong journey. Each day, new facts remind us that education is everywhere. 🧠 Cool Facts! 📖 "Knowledge is power" calls us to intellectual engagement. Apps like ours, Wikipedia, and DeepStash invite us to join this ongoing journey of learning. 🤓 Did You Know? 🤔 Platforms like Wikipedia and DeepStash make knowledge more accessible, providing daily facts that reinforce the value of learning. 📗 Daily Random Facts. 📕 By exploring science, history, and other subjects, we become more knowledgeable. Each fact is a step in our collective pursuit of knowledge. 🧐 Encyclopedia. 🎓 Digital encyclopedias offer endless facts. Despite their extensive information, these resources can sometimes be overwhelming. 🤓 Feed Your Curiosity with Daily Random Facts! 💡 DeepStash curates knowledge into digestible insights, fueling curiosity and empowering minds. ✅ Integrate Learning into Your Daily Routine Daily facts apps are essential for gaining general knowledge. Each fun fact and amazing fact enriches our lives and broadens our horizons. ❗❓ Discover Did You Know Facts Daily! ❗❓ From science to history, our apps deliver daily facts, making learning a delightful part of each day. 💡 Daily Facts. 💡 Daily facts apps go beyond mere entertainment, empowering us with knowledge in captivating ways, emphasizing the profound impact of knowledge itself. 🧪 Ultimate Facts Of Factofy. 🧪 Platforms like DeepStash and Wikipedia revolutionize information access. DeepStash makes exploring topics easy, while Wikipedia serves as a vast encyclopedia. 🔬 Knowledge Facts! 🔬 Together, these platforms span broad general knowledge and specialized insights, making the pursuit of knowledge an integral part of life. 👽 Unlock Daily Amazing Facts & Knowledge! 📜 Our app integrates learning into daily life, sparking interest, inspiring hobbies, and influencing career paths. Each fact enriches our understanding and conversations.
 
-### Technolgies : JetPack Compose, MVVM, Room, Android SDK , Kotlin, Java, Xml, Material Design
+### Technolgies : JetPack Compose, MVVM, Room, Android SDK , Kotlin, Java, Material Design
 
 <a href='https://play.google.com/store/apps/details?id=com.daily.random.facts.interesting&hl=en_SG'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
@@ -302,6 +302,86 @@ Overall, the app aims to be a one-stop solution for all news from cities and tow
 <img src="https://play-lh.googleusercontent.com/aESCHKpc_9LRjyllYTtYRMQGmyw1vw6clN2fIbrpp7Hjmt3MAqiSIDctkz0RaFZ-btoY=w2560-h1440-rw" width="160"  title="Kutchuday Gujarati News">
 <img src="https://play-lh.googleusercontent.com/6-GDxIk5nRyU53PPg-pTwNV_8U9OVMMR9m5VRyAqL74v6Mh654DiE4tsiH0IkCTSGBQ=w2560-h1440-rw" width="160"  title="Kutchuday Gujarati News">
 </p>
+
+
+# Wow Christmas Wish-VideoMaker
+
+Wow Christmas wish is an animated wish maker, where you can choose animation from thousands of different gifs, according to mood and season. This version is dedicated to all of us special day i.e Christmas.
+
+### Technolgies : Room, Android SDK , Kotlin, Java, Xml
+
+<a href='https://play.google.com/store/apps/details?id=com.bmac.wowchristmaswish'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+<p align="center">
+<img src="https://play-lh.googleusercontent.com/4seZZw4IHkoWrl5dukdyZWDHJPoyvxscnRJPxDADegePj6AekTzow2dAJI2jUGN92Fo=w2560-h1440-rw" width="180"  title="Fact of the day - Factofy">
+<img src="https://play-lh.googleusercontent.com/DU6nIC3HHxDerR2mQXZQbJStNVyHJ4xqgwj4nHzDrgtLu1gTFKQLIKGMhA-otUF7cw=w2560-h1440-rw" width="180"  title="Fact of the day - Factofy">
+<img src="https://play-lh.googleusercontent.com/OlM7RJcfVdWnMtNXUOl_FPo4vgrFwiZvkoFAHlJ9XVuqKjT4bkMHvNWabqnnHzFneVs=w2560-h1440-rw" width="180"  title="Fact of the day - Factofy">
+<img src="https://play-lh.googleusercontent.com/AY3_z7LtCjsDedzVO-Rk4lr20uOap_xidLvzjYGMjOlZrU0bvoPxiZpDkwoqyOfeDQ=w2560-h1440-rw" width="180"  title="Fact of the day - Factofy">
+<img src="https://play-lh.googleusercontent.com/TNz_R4Y2C4fUqqSjzi0zM7PO8iMY_0n26A4npYAYoq-m-dktQgjxWDFarMtYHjLZrQ=w2560-h1440-rw" width="180"  title="Fact of the day - Factofy">
+</p>
+
+
+# Yug AR - Own Augmented World
+
+Yug AR - Your Own Augmented Reality World
+
+Make your imagination become true. Make your own world, what you imagine with the help of Augmented Reality. Yug AR becomes allowing anyone to Augment the world around them. People can customize their surroundings and interact with the new world they create. Friends and family enjoying creating their Own Augmented Reality world. Once you know what is Augmented Reality and how Augmented Reality work to create a 3D object to create your Augmented Reality
+
+### Technolgies : FFMPEG, Augmented Reality, Android SDK , Kotlin, Java, Xml
+
+<a href='https://play.google.com/store/apps/details?id=com.bmac.arloka'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+
+
+# AR Tiles
+
+AR TilesTry your tiles with Augmented Reality before you buy them.
+
+Nowadays choose interior design has never been easier. When you choose an interior design and if you don't like after some time then at that time you don't have any option to do. At this point, here is a solution, we are creating the best application where you can choose your own interior design, and see how that looks after design. This is totally Augmented Reality based app.
+
+### Technolgies : Augmented Reality, Android SDK , Kotlin, Java, Xml
+
+<a href='https://play.google.com/store/apps/details?id=com.bmac.artiles'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+
+# Moro tracker
+
+Moro Tracker- Your Fitness Tracker is used to measure your workout distance, track your road bike, count burned calories, and many more.
+
+Cycling Bike Tracker can measure your workout distance, no matter what it was, are you? Achieve your goal by using this application, you can track your exercise using GPS, check your statistics, can check measures in duration or distance. Check your recent workout, doing all this, and reach your goals faster. 
+
+### Technolgies : Google Map, Android SDK , Kotlin, Java, Xml
+
+<a href='https://play.google.com/store/apps/details?id=com.bmac.cycling'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+
+# Ludo Runner (Game)
+
+Ludo Runner is a classic board game played between friends and family. Play the dice game of kings! Recall your childhood!
+
+### Technolgies : Android SDK, Java, Xml
+
+<a href='https://play.google.com/store/apps/details?id=com.company.ludoRunner'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+
+# Zeedup (Education App)
+
+Zeedup is one of the world’s leading certification training providers. We partner with companies and individuals to address their unique needs, providing training and coaching that helps working professionals achieve their career goals.There are countless online education marketplaces on the internet. And there’s us. We are not the biggest. We are not the cheapest. But we are the fastest growing. We have the highest course completion rate in the industry.
+
+### Technolgies : Android SDK, Java, Xml, Rest API, Razorpay Payment Gateway, 
+
+<a href='https://play.google.com/store/apps/details?id=com.vg.zeedUp'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+
+# Secrate Third Eye 
+
+This Secret Third Eye will ease your task of catching your friends and family while they try to access your phone. Secret Third Eye will photograph the person when they try to unlock your phone with wrong PIN, Pattern or Password. You can catch the snoopers red handed using this app. - 1000+ Downloader
+
+### Technolgies : Android SDK, Java, Xml, Rest API, Razorpay Payment Gateway, 
+
+<a href='https://play.google.com/store/apps/details?id=com.vg.secretthirdeye'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+
 
 
 

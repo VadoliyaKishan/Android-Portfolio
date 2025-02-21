@@ -382,6 +382,106 @@ This Secret Third Eye will ease your task of catching your friends and family wh
 <a href='https://play.google.com/store/apps/details?id=com.vg.secretthirdeye'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
 
+# Art&Sale 
+
+This app enables the resellers to find the solution to their online reselling challenges. This gives the power to keep
+their customers updated, engaged, linked and secured. This app saves resellers time, energy and customer data.
+This will help in checking the product availability, placing orders, checking the order status, tracking the order, order
+cancellation, placing returns and many more. All your real tough jobs made easy and online
+
+### Technolgies : Android SDK, Java, Xml, Rest API, Razorpay Payment Gateway, 
+
+<a href='https://play.google.com/store/apps/details?id=com.artsale'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+
+# SPSG Main Yuva Rajkot
+
+Social group as the group does not attempt to create a social animal, subject to the rules of society policy is man,
+man is a social animal. Society groups to work to lift the binding thread is a social group, social group, therefore
+society varelum goals with the overall development of the society, ie social group bedipara Mr. Patel, Rajkot. Asaye
+to achieve such noble goals in the year 1993, the Group has been formed.
+
+### Technolgies : Android SDK, Java, Xml, Rest API
+
+<a href='https://play.google.com/store/apps/details?id=com.universal.bsg'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+
+
+
+# Video Editor All in One
+
+Video Editor All in One is One and only video editor with all features to edit videos and it's free.
+
+### Technolgies : FFmpeg, Android SDK, Java, Xml, Rest API
+
+<a href='https://play.google.com/store/apps/details?id=com.bmac.videoeditor'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+
+
+
+# Gujarat Wildlife
+
+Wildlife in Gujarat includes animals like the leopard, wild cat, hyena and jackal, the rare Asiatic lions, wild ass,
+blackbuck, sambar, sloth beer, and a substantial number of avian life But the main attraction of the place centers
+around the Asiatic lions of the Gir national park.
+
+### Technolgies : Android SDK, Java, Xml, Rest API
+
+<a href='https://play.google.com/store/apps/details?id=com.bmac.gujaratwildlife'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+
+
+
+# Quote Maker
+
+QuoteMaker is one of the most addictive writing platforms, where you can showcase your quotes, poems, stories,
+and many more.
+
+### Technolgies : Android SDK, Java, Xml, Rest API
+
+<a href='https://play.google.com/store/apps/details?id=com.bmac.quotemaker'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+
+
+# KML Converter and View
+
+View and Convert your CSV, KMZ, GPX, GeoJson, TopoJson to KML.
+
+### Technolgies : Google map, Android SDK, Java, Xml, Rest API
+
+<a href='https://play.google.com/store/apps/details?id=com.bmac.kmlconverter'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+
+# Land Survey Calculator
+
+Land Survey Calculator is the best Land survey calculator and Area calculator offline.
+
+### Technolgies : Google map, Android SDK, Java, Xml, Rest API
+
+<a href='https://play.google.com/store/apps/details?id=com.bmac.landsurveycalculator'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+
+# Geo Measure Area Calculator
+
+Geo Measure is the best free tool when you want to purchase some property, and want to calculate area of that
+property. Geo Measure will help you like your best friends and will give you exact calculated area. App is useful to
+calculate GPS area or GPS distance with great accuracy. There two ways to measure any GPS area or distance.
+You can either put markers manually on MAP or record your position using GPS service.
+
+### Technolgies : Google map, Gps, Android SDK, Java, Xml, Rest API
+
+<a href='https://play.google.com/store/apps/details?id=com.bmac.geomeasure'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+
+
+# Cricket Highlights - Review and News
+
+Here You can find recent cricket videos, highlights, classic matches, t20 league highlights around from world and
+recent cricket news etc.
+
+### Technolgies : Android SDK, Java, Xml, Rest API
+
+<a href='https://play.google.com/store/apps/details?id=com.sbhuva.cricketvideos'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
 
 
